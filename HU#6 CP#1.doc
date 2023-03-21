@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#CARO1424-27] HU#6 CP#1.1 Validar Ley de Hicks</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://testing07.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [CARO1424-27]&nbsp;<a href="https://testing07.atlassian.net/browse/CARO1424-27">HU#6 CP#1.1 Validar Ley de Hicks</a>
+            <span class="subText">
+               Creada: 09/mar/23                   &nbsp;Actualizada: 09/mar/23
+
+                                                    &nbsp;Resuelta: 09/mar/23
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estado:</b></td>
+        <td width="80%">Finalizada</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Proyecto:</b></td>
+        <td width="80%"><a href="https://testing07.atlassian.net/secure/BrowseProject.jspa?id=10000">PROYECTO 2 - NEURONATION</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones afectadas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones corregidas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            TC
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridad:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Informador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63fd25639cba7ca02876fb68"
+                id="word_reporter_63fd25639cba7ca02876fb68"
+                href="https://testing07.atlassian.net/secure/ViewProfile.jspa?accountId=63fd25639cba7ca02876fb68">
+                    Daniel Soria
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsable:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    sin asignar
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolución:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Listo
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetas:</b>
+        </td>
+        <td id="labels-10026-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Ninguno
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimación Restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tiempo Trabajado:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimación original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Adjuntos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://testing07.atlassian.net/images/icons/attach/word.gif" height="16" width="16" border="0" alt="Microsoft Word">
+                    Evidencia de pruebas HU#6 CP#1 Validar Ley de Hicks.docx &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Enlaces de incidencias:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://testing07.atlassian.net/browse/CARO1424-28">
+                     <strike>CARO1424-28</strike>                 </a>
+            </td>
+            <td>
+                Validar Ley de Hicks
+            </td>
+            <td>
+                Finalizada
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Precondiciones:</b></td>
+                <td id="customfield_10034-10026-value" class="value" bgcolor="#ffffff" width="80%">      <ul>
+	<li>Tener un dispositivo Android 5.0 o versiones posteriores.</li>
+	<li>Tener la app NeuroNation descargada e instalada.</li>
+</ul>
+
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Datos de Entrada:</b></td>
+                <td id="customfield_10035-10026-value" class="value" bgcolor="#ffffff" width="80%">      <p>Usuario: <a href="mailto:Team2NN@gmail.com" class="external-link" rel="nofollow noreferrer">Team2NN@gmail.com</a></p>
+
+<p>Contraseña: 132abc</p>
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Pasos:</b></td>
+                <td id="customfield_10036-10026-value" class="value" bgcolor="#ffffff" width="80%">      <ol>
+	<li>Abrir la aplicación.</li>
+	<li>Desplazarse hasta el menú “<b>Sesión</b>” ubicado en el margen inferior izquierdo de la pantalla.</li>
+	<li>Presionar sobre “<b>Elegir ejercicio</b>”</li>
+	<li>Seleccionar un ejercicio entre las múltiples opciones que ofrecen las categorías: velocidad, atención, memoria y razonamiento.</li>
+</ol>
+
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Resultado Esperado:</b></td>
+                <td id="customfield_10037-10026-value" class="value" bgcolor="#ffffff" width="80%">      <p>Visualizar en la pantalla una cantidad optima de opciones de juego que le permita al usuario reducir el tiempo que le lleva tomar la decisión de elegir entre uno de ellos.</p>
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10026-value" class="value" bgcolor="#ffffff" width="80%">Tablero Sprint 2</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10026-value" class="value" bgcolor="#ffffff" width="80%">      0|i0002z:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descripción</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Verificar que la cantidad de juegos disponibles y su complejidad reduzca el tiempo que lleva tomar la decisión de elegir entre uno de ellos.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generado a las Tue Mar 21 14:45:47 UTC 2023 por Daniel Soria usando JIRA 1001.0.0-SNAPSHOT#100218-sha1:518c67aa3591e444c32089bebfa0315ff5086344.
+
+</body>
+</html>
